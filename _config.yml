@@ -5,9 +5,9 @@
 # Site
 title: Hexo
 subtitle:
-description:
+description: 我的博客
 author: Wang Di
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
+avatar: /images/avatar.jpg
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
